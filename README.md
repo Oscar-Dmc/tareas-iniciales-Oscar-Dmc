@@ -7,4 +7,4 @@ Esta tarea consiste en la realización de un tutorial para la instalación de di
     4. Atom
     5. Cloud 9
 
-Podemos acceder a estos turoriales pinchando [aquí](http://oscar-dmc.github.io/ULL-ESIT-GRADOII-PL/tareas-iniciales-Oscar-Dmc/Turoriales.html)
+Podemos acceder a estos turoriales pinchando [aquí](http://ull-esit-gradoii-pl.github.io/tareas-iniciales-Oscar-Dmc/Turoriales.html)
