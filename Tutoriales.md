@@ -70,3 +70,5 @@
 ![Acceso a C9](https://raw.githubusercontent.com/ULL-ESIT-GRADOII-PL/tareas-iniciales-Oscar-Dmc/master/images/cloud91.jpg)
 
 2. Autorizamos el uso de nuestra cuenta por parte de Cloud9 tal y como observamos en la imagen. ![Autorización](https://raw.githubusercontent.com/ULL-ESIT-GRADOII-PL/tareas-iniciales-Oscar-Dmc/master/images/cloud92.jpg)
+
+
