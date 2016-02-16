@@ -6,3 +6,5 @@ Esta tarea consiste en la realización de un tutorial para la instalación de di
     3. Pandoc
     4. Atom
     5. Cloud 9
+
+Podemos acceder a los tutoriales pulsando [aquí](http://ull-esit-gradoii-pl.github.io/tareas-iniciales-Oscar-Dmc/)
